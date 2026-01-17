@@ -79,6 +79,7 @@ function App() {
       </header>
       <div className="container">
         <div className="search-box">
+          
           <span className="search-icon"></span>
           <input
             type="text"
