@@ -2,6 +2,7 @@
   "name": "muslim-apps",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://loscos4w40ko04sss0cg0wo4.70.153.72.107.sslip.io",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
